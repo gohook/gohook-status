@@ -1,0 +1,27 @@
+.status {
+}
+
+.label {
+  display: inline-block;
+  margin-right: 5px;
+  color: #767676;
+}
+
+.icon {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.ok {
+  background-color: green;
+}
+
+.warn {
+  background-color: yellow;
+}
+
+.bad {
+  background-color: red;
+}

@@ -1,0 +1,29 @@
+@import "styles/utils/colors.css";
+
+.header {
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo {
+  font-size: 16px;
+  flex: 1;
+}
+
+.new,
+.status,
+.add {
+  padding: 0 10px;
+}
+
+.new {
+}
+
+.status {
+}
+
+.add {
+}
